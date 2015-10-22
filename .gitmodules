@@ -1,0 +1,6 @@
+[submodule "3rd/skynet"]
+	path = 3rd/skynet
+	url = https://github.com/dailypips/skynet.git
+[submodule "3rd/zlog"]
+	path = 3rd/zlog
+	url = https://github.com/HardySimpson/zlog.git
